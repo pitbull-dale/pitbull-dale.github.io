@@ -1,0 +1,13 @@
+body {
+    font-family: Vollkorn, serif;
+    margin: 2em;
+    color: #657b83;
+}
+  
+h1 {
+    font-weight: 700;
+    font-size: larger;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #586e75;
+}
